@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex Bello\\Documents\\Ejercicios en Visual\\Semana 4\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj": {}
+    "C:\\Users\\Alex Bello\\Documents\\Examen_Segundo_Parcial\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex Bello\\Documents\\Ejercicios en Visual\\Semana 4\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj": {
+    "C:\\Users\\Alex Bello\\Documents\\Examen_Segundo_Parcial\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex Bello\\Documents\\Ejercicios en Visual\\Semana 4\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj",
+        "projectUniqueName": "C:\\Users\\Alex Bello\\Documents\\Examen_Segundo_Parcial\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj",
         "projectName": "Kevin_Alejandro_Bello_Cruz",
-        "projectPath": "C:\\Users\\Alex Bello\\Documents\\Ejercicios en Visual\\Semana 4\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj",
+        "projectPath": "C:\\Users\\Alex Bello\\Documents\\Examen_Segundo_Parcial\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz.csproj",
         "packagesPath": "C:\\Users\\Alex Bello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex Bello\\Documents\\Ejercicios en Visual\\Semana 4\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\obj\\",
+        "outputPath": "C:\\Users\\Alex Bello\\Documents\\Examen_Segundo_Parcial\\Kevin_Alejandro_Bello_Cruz\\Kevin_Alejandro_Bello_Cruz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
